@@ -34,6 +34,8 @@ Statement (a b c : G) : (a * b) * (b * c) = (a * (b * b)) * c := by
 
 Conclusion "
 Almost there. Just one more property!
+
+Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide).
 "
 
 end MyGroup

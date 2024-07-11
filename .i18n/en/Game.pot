@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Tue Jul  9 15:55:56 2024\n"
+"POT-Creation-Date: Wed Jul 10 11:41:26 2024\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -58,7 +58,9 @@ msgstr ""
 
 #: Game.Levels.GroupDefinition.L01_mul_one
 msgid "Great, you've just used the right identity property of groups. We'll learn the left identity property\n"
-"in the next level."
+"in the next level.\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
@@ -79,22 +81,27 @@ msgid "Let $a$ be an element of $G$. Show that $1 * (a * 1) = a$."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
-msgid "Enter `rw [mul_one]` or `rw [one_mul]` in the text box and press \"Execute\"."
+msgid "Enter `rw [mul_one]` or `rw [one_mul]` in the text box and press \"Execute\".\n"
+"Feel free to consult Proof Guide if you're still stuck."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
-msgid "Enter `rw [one_mul]` in the text box and press \"Execute\"."
+msgid "Enter `rw [one_mul]` in the text box and press \"Execute\".\n"
+"Feel free to consult Proof Guide if you're still stuck."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
-msgid "Enter `rw [mul_one]` in the text box and press \"Execute\"."
+msgid "Enter `rw [mul_one]` in the text box and press \"Execute\".\n"
+"Feel free to consult Proof Guide if you're still stuck."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
 msgid "I asked you to perform rewrites on two separate lines. But these rewrites can be combined on one\n"
 "line as `rw [mul_one, one_mul]`.\n"
 "\n"
-"In the next level, we'll learn another property of groups."
+"In the next level, we'll learn another property of groups.\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L03_mul_assoc
@@ -121,7 +128,9 @@ msgid "You'll need several rewrites, which can be done all on one line."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L03_mul_assoc
-msgid "Almost there. Just one more property!"
+msgid "Almost there. Just one more property!\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L04_mul_left_inv
@@ -155,7 +164,9 @@ msgstr ""
 #: Game.Levels.GroupDefinition.L04_mul_left_inv
 msgid "Excellent. You've now seen all the defining properties of a group.\n"
 "Click \"Leave World\" below to leave the Group Definition world and move on to the\n"
-"next world."
+"next world.\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.GroupDefinition
@@ -220,7 +231,9 @@ msgid "Let $b$ be an element of a group $G$. Suppose for every $a$ in $G$, that\
 msgstr ""
 
 #: Game.Levels.Basics.L01_unique_identity
-msgid "Well done!"
+msgid "Well done!\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics.L02_inv_inv
@@ -250,7 +263,9 @@ msgid "For every eleement $a$ in a group $G$, we have $(a^{-1})^{-1} = a$."
 msgstr ""
 
 #: Game.Levels.Basics.L02_inv_inv
-msgid "Excellent!"
+msgid "Excellent!\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics.L03_mul_right_inv
@@ -281,7 +296,9 @@ msgid "Let $a$ be an element of a group $G$. Then $a * a^{-1} = 1$."
 msgstr ""
 
 #: Game.Levels.Basics.L03_mul_right_inv
-msgid "Excellent!"
+msgid "Excellent!\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics.L04_unique_inverse
@@ -317,7 +334,9 @@ msgid "Let $a$ be an element of a group $G$. Then $a * a^{-1} = 1$."
 msgstr ""
 
 #: Game.Levels.Basics.L04_unique_inverse
-msgid "Excellent!"
+msgid "Excellent!\n"
+"\n"
+"Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics

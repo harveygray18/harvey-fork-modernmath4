@@ -40,6 +40,8 @@ Statement inv_inv (a : G) : a⁻¹⁻¹ = a := by
       _ = a := by Hole rw [←mul_left_inv a, ←mul_assoc, mul_left_inv, one_mul]
 Conclusion "
 Excellent!
+
+Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide).
 "
 
 end MyGroup

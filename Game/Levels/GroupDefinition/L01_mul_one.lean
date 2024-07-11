@@ -50,6 +50,8 @@ Statement (a : G) : a * 1 = a := by
 Conclusion "
 Great, you've just used the right identity property of groups. We'll learn the left identity property
 in the next level.
+
+Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide).
 "
 
 end MyGroup

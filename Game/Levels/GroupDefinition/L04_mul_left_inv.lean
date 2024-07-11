@@ -38,6 +38,8 @@ Conclusion "
 Excellent. You've now seen all the defining properties of a group.
 Click \"Leave World\" below to leave the Group Definition world and move on to the
 next world.
+
+Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide).
 "
 
 end MyGroup

@@ -42,6 +42,8 @@ Statement mul_right_inv (a : G) : a * a⁻¹ = 1 := by
       _ = 1                   := by rw [mul_left_inv]
 Conclusion "
 Excellent!
+
+Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide).
 "
 
 end MyGroup

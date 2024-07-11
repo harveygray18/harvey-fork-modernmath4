@@ -69,6 +69,8 @@ Statement eq_one_of_self_mul_eq (b : G) (h : ∀ (a : G), b * a = a) : b = 1 := 
       _ = 1     := by Hole rw [h]
 Conclusion "
 Well done!
+
+Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide).
 "
 
 end MyGroup
