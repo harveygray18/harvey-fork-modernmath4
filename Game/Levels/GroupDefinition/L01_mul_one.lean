@@ -44,6 +44,7 @@ variable (G : Type) [Group G]
 /-- Let $a$ be an element of $G$. Show that $a * 1 = a$. -/
 Statement (a : G) : a * 1 = a := by
   Hint "Enter `rw [mul_one]` in the text box and press \"Execute\"."
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   rw [mul_one]
 
 

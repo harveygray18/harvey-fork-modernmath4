@@ -34,7 +34,7 @@ TheoremDoc MyGroup.mul_right_inv as "mul_right_inv" in "Basics"
 
 /-- Let $a$ be an element of a group $G$. Then $a * a^{-1} = 1$. -/
 Statement mul_right_inv (a : G) : a * a⁻¹ = 1 := by
-
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   Template
     Hole
     calc

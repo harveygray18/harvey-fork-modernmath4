@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.7.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: Wed Jul 10 11:41:26 2024\n"
+"POT-Creation-Date: Fri Jul 19 12:19:52 2024\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -57,6 +57,10 @@ msgid "Enter `rw [mul_one]` in the text box and press \"Execute\"."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L01_mul_one
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
+msgstr ""
+
+#: Game.Levels.GroupDefinition.L01_mul_one
 msgid "Great, you've just used the right identity property of groups. We'll learn the left identity property\n"
 "in the next level.\n"
 "\n"
@@ -81,18 +85,23 @@ msgid "Let $a$ be an element of $G$. Show that $1 * (a * 1) = a$."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
-msgid "Enter `rw [mul_one]` or `rw [one_mul]` in the text box and press \"Execute\".\n"
-"Feel free to consult Proof Guide if you're still stuck."
+msgid "Enter `rw [mul_one]` or `rw [one_mul]` in the text box and press \"Execute\"."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
-msgid "Enter `rw [one_mul]` in the text box and press \"Execute\".\n"
-"Feel free to consult Proof Guide if you're still stuck."
+msgid "Enter `rw [one_mul]` in the text box and press \"Execute\"."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
-msgid "Enter `rw [mul_one]` in the text box and press \"Execute\".\n"
-"Feel free to consult Proof Guide if you're still stuck."
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
+msgstr ""
+
+#: Game.Levels.GroupDefinition.L02_one_mul
+msgid "Enter `rw [mul_one]` in the text box and press \"Execute\"."
+msgstr ""
+
+#: Game.Levels.GroupDefinition.L02_one_mul
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L02_one_mul
@@ -128,6 +137,10 @@ msgid "You'll need several rewrites, which can be done all on one line."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L03_mul_assoc
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
+msgstr ""
+
+#: Game.Levels.GroupDefinition.L03_mul_assoc
 msgid "Almost there. Just one more property!\n"
 "\n"
 "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
@@ -159,6 +172,10 @@ msgstr ""
 #: Game.Levels.GroupDefinition.L04_mul_left_inv
 msgid "Remember when Lean writes `x * y * z`, it means `(x * y) * z`. Now use an\n"
 "appropriate multiplicative identity rule"
+msgstr ""
+
+#: Game.Levels.GroupDefinition.L04_mul_left_inv
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.GroupDefinition.L04_mul_left_inv
@@ -231,6 +248,10 @@ msgid "Let $b$ be an element of a group $G$. Suppose for every $a$ in $G$, that\
 msgstr ""
 
 #: Game.Levels.Basics.L01_unique_identity
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
+msgstr ""
+
+#: Game.Levels.Basics.L01_unique_identity
 msgid "Well done!\n"
 "\n"
 "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
@@ -260,6 +281,10 @@ msgstr ""
 
 #: Game.Levels.Basics.L02_inv_inv
 msgid "For every eleement $a$ in a group $G$, we have $(a^{-1})^{-1} = a$."
+msgstr ""
+
+#: Game.Levels.Basics.L02_inv_inv
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics.L02_inv_inv
@@ -293,6 +318,10 @@ msgstr ""
 
 #: Game.Levels.Basics.L03_mul_right_inv
 msgid "Let $a$ be an element of a group $G$. Then $a * a^{-1} = 1$."
+msgstr ""
+
+#: Game.Levels.Basics.L03_mul_right_inv
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics.L03_mul_right_inv
@@ -331,6 +360,10 @@ msgstr ""
 
 #: Game.Levels.Basics.L04_unique_inverse
 msgid "Let $a$ be an element of a group $G$. Then $a * a^{-1} = 1$."
+msgstr ""
+
+#: Game.Levels.Basics.L04_unique_inverse
+msgid "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
 msgstr ""
 
 #: Game.Levels.Basics.L04_unique_inverse

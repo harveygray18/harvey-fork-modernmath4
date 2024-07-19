@@ -1,4 +1,5 @@
 import GameServer.Commands
+import Game.Metadata
 
 import Game.MyGroup.Definition
 
@@ -63,6 +64,7 @@ TheoremDoc MyGroup.eq_one_of_self_mul_eq as "eq_one_of_self_mul_eq" in "Basics"
 /-- Let $b$ be an element of a group $G$. Suppose for every $a$ in $G$, that
 $b * a = a$. Call this assumption $h$. Then $b = 1$. -/
 Statement eq_one_of_self_mul_eq (b : G) (h : ∀ (a : G), b * a = a) : b = 1 := by
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   Template
     calc
       b = b * 1 := by Hole rw [mul_one]

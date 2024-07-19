@@ -39,7 +39,7 @@ TheoremDoc MyGroup.inv_eq_of_mul_eq_one as "inv_eq_of_mul_eq_one" in "Basics"
 
 /-- Let $a$ be an element of a group $G$. Then $a * a^{-1} = 1$. -/
 Statement inv_eq_of_mul_eq_one {a b : G} (h : a * b = 1) : a⁻¹ = b := by
-
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   Template
     Hole
     calc

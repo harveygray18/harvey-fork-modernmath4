@@ -25,16 +25,15 @@ variable {G : Type} [Group G]
 
 /-- Let $a$ be an element of $G$. Show that $1 * (a * 1) = a$. -/
 Statement (a : G) : 1 * (a * 1) = a := by
-  Hint (hidden := true) "Enter `rw [mul_one]` or `rw [one_mul]` in the text box and press \"Execute\".
-                         Feel free to consult Proof Guide if you're still stuck."
+  Hint (hidden := true) "Enter `rw [mul_one]` or `rw [one_mul]` in the text box and press \"Execute\"."
   Branch
     rw [mul_one]
-    Hint (hidden := true) "Enter `rw [one_mul]` in the text box and press \"Execute\".
-                         Feel free to consult Proof Guide if you're still stuck."
+    Hint (hidden := true) "Enter `rw [one_mul]` in the text box and press \"Execute\"."
+    Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
     rw [one_mul]
   rw [one_mul]
-  Hint (hidden := true) "Enter `rw [mul_one]` in the text box and press \"Execute\".
-                         Feel free to consult Proof Guide if you're still stuck."
+  Hint (hidden := true) "Enter `rw [mul_one]` in the text box and press \"Execute\"."
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   rw [mul_one]
 
 Conclusion "

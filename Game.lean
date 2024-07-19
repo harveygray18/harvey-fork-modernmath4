@@ -25,6 +25,7 @@ Info "
 This game is part of the [exlean](https://exlean.org/) project.
 "
 
+
 /-! Information to be displayed on the servers landing page. -/
 Languages "English"
 CaptionShort "Modern Maths Game"

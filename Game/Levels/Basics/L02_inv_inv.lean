@@ -33,7 +33,7 @@ TheoremDoc MyGroup.inv_inv as "inv_inv" in "Basics"
 
 /-- For every eleement $a$ in a group $G$, we have $(a^{-1})^{-1} = a$. -/
 Statement inv_inv (a : G) : a⁻¹⁻¹ = a := by
-
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   Template
     calc
       a⁻¹⁻¹ = a⁻¹⁻¹ * 1 := by Hole rw [mul_one]

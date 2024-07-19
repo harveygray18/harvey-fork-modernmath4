@@ -30,6 +30,7 @@ Statement (a b c : G) : (a * b) * (b * c) = (a * (b * b)) * c := by
   Hint (hidden := true) "You'll need several rewrites, which can be done all on one line."
   rw [mul_assoc]
   rw [mul_assoc]
+  Hint (hidden := true) "Still don't understand? Ask [Proof Guide](https://chatgpt.com/g/g-sbJfmQ6te-proof-guide)."
   rw [mul_assoc]
 
 Conclusion "
